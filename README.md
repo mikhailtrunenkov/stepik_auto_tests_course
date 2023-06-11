@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 My homework taskes
-new string
+new string 2
